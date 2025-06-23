@@ -1,6 +1,6 @@
 {
   "name": "spanish-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Spanish language learning",
   "main": "dist/index.js",
   "type": "module",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheDThompsonDev/spanish-mcp-server"
+    "url": "git+https://github.com/TheDThompsonDev/spanish-mcp-server.git"
   },
   "homepage": "https://github.com/TheDThompsonDev/spanish-mcp-server#readme",
   "bugs": {
@@ -51,4 +51,3 @@
     "README.md"
   ]
 }
-
