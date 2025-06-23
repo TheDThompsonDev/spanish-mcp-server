@@ -9,7 +9,7 @@ npm install -g spanish-mcp-server
 
 ### Option 2: Install from GitHub
 ```bash
-npm install -g git+https://github.com/yourusername/spanish-mcp-server.git
+npm install -g git+https://github.com/TheDThompsonDev/spanish-mcp-server.git
 ```
 
 ## Setup with Claude Desktop
@@ -97,7 +97,7 @@ If automatic installation fails:
 
 ```bash
 # Clone and build manually
-git clone https://github.com/yourusername/spanish-mcp-server.git
+git clone https://github.com/TheDThompsonDev/spanish-mcp-server.git
 cd spanish-mcp-server
 npm install
 npm run build
@@ -108,7 +108,7 @@ npm link
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/spanish-mcp-server/issues)
+- **Issues**: [GitHub Issues](https://github.com/TheDThompsonDev/spanish-mcp-server/issues)
 - **Documentation**: [README.md](README.md)
 - **Deployment**: [DEPLOYMENT.md](DEPLOYMENT.md)
 

@@ -29,11 +29,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/spanish-mcp-server.git"
+    "url": "https://github.com/TheDThompsonDev/spanish-mcp-server"
   },
-  "homepage": "https://github.com/yourusername/spanish-mcp-server#readme",
+  "homepage": "https://github.com/TheDThompsonDev/spanish-mcp-server#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/spanish-mcp-server/issues"
+    "url": "https://github.com/TheDThompsonDev/spanish-mcp-server/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.6.0"

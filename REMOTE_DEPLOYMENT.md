@@ -52,7 +52,7 @@ Share via GitHub for easy installation.
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/spanish-mcp-server.git
+git remote add origin https://github.com/TheDThompsonDev/spanish-mcp-server.git
 git push -u origin main
 ```
 
@@ -60,10 +60,10 @@ git push -u origin main
 
 ```bash
 # Install directly from GitHub
-npm install -g git+https://github.com/yourusername/spanish-mcp-server.git
+npm install -g git+https://github.com/TheDThompsonDev/spanish-mcp-server.git
 
 # Or clone and install locally
-git clone https://github.com/yourusername/spanish-mcp-server.git
+git clone https://github.com/TheDThompsonDev/spanish-mcp-server.git
 cd spanish-mcp-server
 npm install
 npm run build
@@ -109,8 +109,8 @@ docker build -t spanish-mcp-server .
 docker run -p 3000:3000 spanish-mcp-server
 
 # Deploy to Docker Hub
-docker tag spanish-mcp-server yourusername/spanish-mcp-server
-docker push yourusername/spanish-mcp-server
+docker tag spanish-mcp-server TheDThompsonDev/spanish-mcp-server
+docker push TheDThompsonDev/spanish-mcp-server
 ```
 
 ### Option 4: Cloud Deployment (Heroku/Railway/Render)
@@ -160,7 +160,7 @@ Submit to official MCP registries (when available).
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/spanish-mcp-server.git"
+    "url": "https://github.com/TheDThompsonDev/spanish-mcp-server.git"
   },
   "keywords": [
     "mcp",
@@ -257,13 +257,13 @@ npm install -g spanish-mcp-server
 
 ### From GitHub:
 ```bash
-npm install -g git+https://github.com/yourusername/spanish-mcp-server.git
+npm install -g git+https://github.com/TheDThompsonDev/spanish-mcp-server.git
 ```
 
 ### From Docker:
 ```bash
-docker pull yourusername/spanish-mcp-server
-docker run -d --name spanish-mcp yourusername/spanish-mcp-server
+docker pull TheDThompsonDev/spanish-mcp-server
+docker run -d --name spanish-mcp TheDThompsonDev/spanish-mcp-server
 ```
 
 ## Configuration for Users
